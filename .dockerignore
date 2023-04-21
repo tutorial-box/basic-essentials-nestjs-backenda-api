@@ -1,0 +1,6 @@
+# Visit https://docs.docker.com/engine/reference/builder/#dockerignore-file
+dist/
+node_modules/
+.env
+*.md
+.git/
